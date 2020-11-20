@@ -23,10 +23,10 @@ class FlaskTest (unittest.TestCase):
         self.assertEqual(response.content_type, "application/json")
 
     #check content of entry page
-    def test_index_data(self):
-        ant_test = app.test_client(self)
-        response = ant_test.get("/")
-        self.assertTrue(b'Status' in response.data)
+    # def test_index_data(self):
+    #     ant_test = app.test_client(self)
+    #     response = ant_test.get("/")
+    #     self.assertTrue(b'Status' in response.data)
 
 
 #if _name_ == "_main_":
