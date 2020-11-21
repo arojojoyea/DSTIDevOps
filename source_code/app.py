@@ -12,6 +12,7 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://IcALVn1SW1:s23ZPO6lbB@remotemys
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 ma = Marshmallow(app)
+# test
 
 
 class User(db.Model):
