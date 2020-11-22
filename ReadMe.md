@@ -15,6 +15,12 @@
 ├─── requirements.txt
 └─── runtime.txt
 
+C:.
+├───.circleci
+├───source_code
+│   └───__pycache__
+└───testvenv
+    └───Scripts
 
 APP.PY: The Python application file
 DOCKER-COMPOSE.YML
