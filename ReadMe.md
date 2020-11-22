@@ -6,6 +6,8 @@ PROJECT STRUCTURE
  
 ├───.circleci
 ├───source_code # code directory
+
+├───source_code # code directory
 │   ├─── app.py
 │   ├── mysqlclient-1.4.6-cp39-cp39-win_amd64.whl
 │   └── test.py
