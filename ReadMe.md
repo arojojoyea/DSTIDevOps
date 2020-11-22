@@ -1,7 +1,6 @@
 #This is my test drive applica....
 
-PROJECT STRUCTURE
-# root directory
+# PROJECT STRUCTURE
 .
  
 ├───.circleci
