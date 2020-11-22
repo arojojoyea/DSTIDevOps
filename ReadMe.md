@@ -5,10 +5,10 @@ PROJECT STRUCTURE
 .
  
 ├───.circleci
-├───source_code
+├───source_code # code directory
 │   ├─── app.py
 │   ├── mysqlclient-1.4.6-cp39-cp39-win_amd64.whl
-│   ├── test.py
+│   └── test.py
 ├─── Procfile
 ├─── Readme.md
 ├─── requirements.txt
