@@ -1,5 +1,5 @@
 # WEB APPLICATION PROJECT
-A web application on Python storing (CRUD) data in a database (MySQL, hosted online).
+A web application programming interface on Python storing (CRUD) data in a database (MySQL, hosted online).
 
 # FOLDER STRUCTURE
 .
