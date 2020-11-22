@@ -5,6 +5,7 @@ A web application on Python storing (CRUD) data in a database (MySQL, hosted onl
 .
 
 ![alt text](https://github.com/arojojoyea/DSTIDevOps/blob/main/folder_structure.png?raw=true)
+
 source_code #Code directory
 app.py #Application Python file
 │   ├── mysqlclient-1.4.6-cp39-cp39-win_amd64.whl
