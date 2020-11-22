@@ -1,4 +1,7 @@
-# PROJECT STRUCTURE
+# WEB APPLICATION PROJECT
+A web application on Python storing (CRUD) data in a database (MySQL, hosted online).
+
+# FOLDER STRUCTURE
 .
 
 ├───.circleci
@@ -12,7 +15,7 @@
 └─── runtime.txt
 
 
-#File Description
+# File Description
 APP.PY: The Python application file
 DOCKER-COMPOSE.YML: The docker compose yaml config file
 DOCKERFILE:  The docker file
@@ -21,5 +24,7 @@ requirements.txt:   The file listing all the environmental requirements to be in
 test.py: The Python file for testing 
 Procfile: For declaring what commands are run on the Heroku platform
   
-# code directory
+# CI
+The project is sent to a CI server (CircleCI)
+![alt text](https://github.com/arojojoyea/DSTIDevOps/blob/main/ci_img.png?raw=true)
 
