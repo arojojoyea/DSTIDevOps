@@ -33,3 +33,8 @@ The project is sent through a pipeline to an Heroku CD server
 ![alt text](https://github.com/arojojoyea/DSTIDevOps/blob/main/heroku_page.png?raw=true)
 ![alt text](https://github.com/arojojoyea/DSTIDevOps/blob/main/cd_show.png?raw=true)
 
+# KUBERNETES
+Kubernetes is set up for high availability.
+![alt text](https://github.com/arojojoyea/DSTIDevOps/blob/main/kuber/kuber_pic.png?raw=true)
+
+![alt text](https://github.com/arojojoyea/DSTIDevOps/blob/main/kuber/kuber_pic2.png?raw=true)
