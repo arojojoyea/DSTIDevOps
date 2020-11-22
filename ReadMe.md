@@ -40,6 +40,14 @@ app.py  docker-compose.yml  dockerfile  mysqlclient-1.4.6-cp39-cp39-win_amd64.wh
 
 # data directory
 .
+
+├───.circleci
+├───source_code
+│   └───__pycache__
+└───testvenv
+    └───Scripts
+
+
 ├── model_training
 │   ├── Fruit_detection.ipynb
 │   ├── yolov4-custom.cfg
