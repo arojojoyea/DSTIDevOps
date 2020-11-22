@@ -26,5 +26,5 @@ Procfile: For declaring what commands are run on the Heroku platform
   
 # CI
 The project is sent to a CI server (CircleCI)
-![alt text](https://github.com/arojojoyea/DSTIDevOps/blob/master/ci_img.png?raw=true)
+![alt text](https://github.com/arojojoyea/DSTIDevOps/blob/main/ci_img.png?raw=true)
 
