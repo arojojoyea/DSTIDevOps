@@ -6,12 +6,10 @@
 
     
 ├───.circleci
-├───source_code # code directory
-├───source_code # code directory
-
-│   ├─── app.py
+├───source_code #Code directory
+│   ├─── app.py #Application Python file
 │   ├── mysqlclient-1.4.6-cp39-cp39-win_amd64.whl
-│   └── test.py
+│   └── test.py #Test Pyton file
 ├─── Procfile
 ├─── Readme.md
 ├─── requirements.txt
