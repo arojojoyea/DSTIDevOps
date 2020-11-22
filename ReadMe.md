@@ -13,7 +13,7 @@ A web application on Python storing (CRUD) data in a database (MySQL, hosted onl
 ├─── Readme.md
 ├─── requirements.txt
 └─── runtime.txt
-
+![alt text](https://github.com/arojojoyea/DSTIDevOps/blob/main/folder_structure.png?raw=true)
 
 # File Description
 APP.PY: The Python application file
