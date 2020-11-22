@@ -2,7 +2,7 @@
 
 # PROJECT STRUCTURE
 .
- 
+
 ├───.circleci
 ├───source_code # code directory
 
@@ -14,6 +14,7 @@
 ├─── Readme.md
 ├─── requirements.txt
 └─── runtime.txt
+
 
 APP.PY: The Python application file
 DOCKER-COMPOSE.YML
