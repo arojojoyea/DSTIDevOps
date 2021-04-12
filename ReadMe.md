@@ -2,17 +2,17 @@
 A web application programming interface on Python storing (CRUD) data in a database (MySQL, hosted online).
 
 # FOLDER STRUCTURE
-.
+
 
 ![alt text](https://github.com/arojojoyea/DSTIDevOps/blob/main/folder_structure.png?raw=true)
 
-source_code : Code directory
-app.py :  Application Python file
-mysqlclient-1.4.6-cp39-cp39-win_amd64.whl : mysql wheel
-test.py : Test Pyton file
-Procfile :  List of Heroku process types in the app
-Readme.md
-requirements.txt  : List of all dependencies required to be installed in the container
+- source_code : Code directory
+- app.py :  Application Python file
+- mysqlclient-1.4.6-cp39-cp39-win_amd64.whl : mysql wheel
+- test.py : Test Pyton file
+- Procfile :  List of Heroku process types in the app
+- Readme.md
+- requirements.txt  : List of all dependencies required to be installed in the container
 runtime.txt
 
 # File Description
